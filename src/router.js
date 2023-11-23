@@ -4,7 +4,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import HomePage from '@/views/HomePage.vue'
 
 const routes = [
-  { path: '/CustomApi/', name: 'Home', component: HomePage },
+  { path: '/Final/', name: 'Home', component: HomePage },
   {
     path: '/monsters/:id',
     name: 'Cards',

@@ -22,7 +22,7 @@ onMounted(async () => {
     class="z-90 fixed bottom-8 right-8 flex h-20 w-20 items-center justify-center rounded-full bg-green-600 text-4xl text-white drop-shadow-lg duration-300 hover:scale-110 hover:bg-green-700 hover:drop-shadow-2xl"
     @click="fetchCharacters"
   >
-    🚀
+    🐉
   </button>
   <main class="min-h-screen bg-gradient-to-r from-green-900 to-blue-700">
     <div class="container mx-auto grid grid-cols-8 gap-4 py-8">
